@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <css/>
+        <draft>false</draft>
+        <id>rusty_sp_homepage</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2017-10-10 18:16:01</sys_created_on>
+        <sys_id>1428206cdbbd0f0053085b3e5e9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rusty_sp_homepage</sys_name>
+        <sys_package display_value="Rusty SP" source="x_snc_rusty_sp">9bd973c3db698b00fd56df7b5e96192e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rusty SP">9bd973c3db698b00fd56df7b5e96192e</sys_scope>
+        <sys_update_name>sp_page_1428206cdbbd0f0053085b3e5e9619f1</sys_update_name>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2017-10-10 18:16:01</sys_updated_on>
+        <title>Rusty SP Homepage</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=1428206cdbbd0f0053085b3e5e9619f1"/>
+</record_update>

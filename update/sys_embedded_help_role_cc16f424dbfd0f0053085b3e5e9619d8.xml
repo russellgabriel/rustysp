@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_snc_rusty_sp.manager" name="x_snc_rusty_sp.manager">a2f53824dbfd0f0053085b3e5e961956</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>russell.gabriel</sys_created_by>
+        <sys_created_on>2017-10-10 19:16:53</sys_created_on>
+        <sys_id>cc16f424dbfd0f0053085b3e5e9619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a2f53824dbfd0f0053085b3e5e961956</sys_name>
+        <sys_package display_value="Rusty SP" source="x_snc_rusty_sp">9bd973c3db698b00fd56df7b5e96192e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rusty SP">9bd973c3db698b00fd56df7b5e96192e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cc16f424dbfd0f0053085b3e5e9619d8</sys_update_name>
+        <sys_updated_by>russell.gabriel</sys_updated_by>
+        <sys_updated_on>2017-10-10 19:16:53</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
